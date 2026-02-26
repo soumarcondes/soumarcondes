@@ -1,7 +1,7 @@
 ## Seja bem-vindo(a) ao meu perfil!
 
  <nav>
-   <a href="https://github.com/wstechrepair">
+   <a href="https://github.com/mateus.soumarcondes">
    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=wstechrepair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wstechrepair&layout=compact&langs_count=6&theme=dark"/>
 </nav>
@@ -18,6 +18,6 @@
   ### Me segue no insta e no linkedin! 
   
 <div> 
-  <a href="https://www.instagram.com/wstechrepair/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-souza-marcondes-940071233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/mateus.soumarcondes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-souza-marcondes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
